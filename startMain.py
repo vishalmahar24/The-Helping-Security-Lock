@@ -1,0 +1,2 @@
+import faceVoiceMain
+faceVoiceMain.init()
